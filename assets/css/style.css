@@ -1,0 +1,18 @@
+.workshop-details {
+    display: flex;
+    justify-content: center; /* Center-align the content horizontally */
+    gap: 40px; /* Adjust spacing between the date and location */
+    align-items: center; /* Align icons and text vertically */
+    margin-top: 10px; /* Optional: Add some space above */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+}
+
+.workshop-detail i {
+    margin-right: 5px; /* Add space between the icon and the text */
+}
+
+.workshop-detail {
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* Prevent text from wrapping unnecessarily */
+}
