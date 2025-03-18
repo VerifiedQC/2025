@@ -13,3 +13,15 @@ cover-img: "/assets/img/zagreb.png"
         <i class="fas fa-location-dot"></i> Westin Hotel Conference Center, Zagreb, Croatia
     </span>
 </div>
+
+[Presentation Submission](https://easychair.org/conferences/?conf=vqc2025)
+
+#### Organizers
+- Runzhou Tao (University of Maryland)
+- Yu-Fang Chen (Academia Sinica)
+
+#### Invited Speakers
+TBD
+
+#### Program Committee
+TBD
