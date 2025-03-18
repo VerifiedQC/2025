@@ -16,8 +16,9 @@ This workshop seeks to foster collaboration between the formal methods and quant
 
 Topics of interest include, but are not limited to:
 
-- High-level quantum programming languages
 - Formal verification of quantum programs
+- Validation and benchmarking of quantum computing systems 
+- High-level quantum programming languages
 - Novel quantum programming abstractions
 - Quantum circuit and program optimization
 - Hardware-aware circuit compilation and routing
@@ -26,9 +27,8 @@ Topics of interest include, but are not limited to:
 
 ## Submissions
 
-We invite prospective speakers to submit their talk proposals. It should include a three-page summary (exclude the bibliography and appendices), along with a link to a separate published paper or preprint. If the referenced paper is not publicly available (e.g., not open access), it should be included in full after the summary.
-
-All submissions will be handled via EasyChair. 
+We invite prospective speakers to submit their talk proposals. It should include a two-page summary (exclude the bibliography and appendices), along with an optional link to a separate published paper or preprint.
+All submissions will be handled via [EasyChair](https://easychair.org/conferences/?conf=vqc2025). 
 
 ## Dates
 -  Submission deadline May 1, 2025
