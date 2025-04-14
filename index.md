@@ -21,7 +21,20 @@ cover-img: "/assets/img/zagreb.png"
 - Yu-Fang Chen (Academia Sinica)
 
 #### Invited Speakers
-TBD
+- Ross Duncan (Quantinuum)
+- Aws Albarghouthi (University of Wisconsin-Madison)
+- Macro Pistoia (JP Morgan)
+- Mingsheng Ying (University of Technology Sydney)
 
 #### Program Committee
-TBD
+- Runzhou Tao (University of Maryland)
+- Yu-Fang Chen (Academia Sinica)
+- Alfons Laarman (Leiden University)
+- Christophe Chareton (LORIA-CELLO)
+- Ondrej Lengal (Brno University of Technology)
+- Max Tschaikowski (Aalborg University)
+- Nengkun Yu (Stony Brook University)
+- Ji Liu (Argonne National Laboratory)
+- Zichang He (JPMorgan Chase)
+- Li Zhou (Max Planck Institute for Security and Privacy)
+- Ferhat Erata (Yale University)
