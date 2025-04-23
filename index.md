@@ -16,6 +16,8 @@ cover-img: "/assets/img/zagreb.png"
 
 [Presentation Submission](https://easychair.org/conferences/?conf=vqc2025)
 
+<span style="color:red">Due to several requests, we have extended the submission deadline to May 15.</span>
+
 #### Organizers
 - Runzhou Tao (University of Maryland)
 - Yu-Fang Chen (Academia Sinica)
