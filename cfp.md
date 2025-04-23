@@ -31,6 +31,6 @@ We invite prospective speakers to submit their talk proposals. It should include
 All submissions will be handled via [EasyChair](https://easychair.org/conferences/?conf=vqc2025). 
 
 ## Dates
--  Submission deadline May 1, 2025
+-  Submission deadline ~~May 1, 2025~~ <span style="color:red">May 15, 2025 (extended)</span>
 -  Notifications, June 1, 2025
 -  Workshop, July 21, 2025
