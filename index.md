@@ -25,7 +25,7 @@ cover-img: "/assets/img/zagreb.png"
 #### Invited Speakers
 - Ross Duncan (Quantinuum)
 - Aws Albarghouthi (University of Wisconsin-Madison)
-- Macro Pistoia (JP Morgan)
+- Marco Pistoia (JP Morgan)
 - Mingsheng Ying (University of Technology Sydney)
 
 #### Program Committee
