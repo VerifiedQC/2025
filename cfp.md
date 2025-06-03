@@ -32,5 +32,5 @@ All submissions will be handled via [EasyChair](https://easychair.org/conference
 
 ## Dates
 -  Submission deadline ~~May 1, 2025~~ <span style="color:red">May 15, 2025 (extended)</span>
--  Notifications, June 1, 2025
+-  Notifications, ~~June 1, 2025~~ <span style="color:red">June 14, 2025 (extended, if you need to receive the result earlier for travel arrangements, please feel free to contact the co-chairs.)</span>
 -  Workshop, July 21, 2025
