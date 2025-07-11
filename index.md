@@ -18,6 +18,8 @@ cover-img: "/assets/img/zagreb.png"
 
 <!-- <span style="color:red">Due to several requests, we have extended the submission deadline to May 15.</span> -->
 
+<span style="color:red">The notification deadline is extended to June 15. If you need to receive the result earlier for travel arrangements, please feel free to contact the co-chairs.</span>
+
 #### Organizers
 - Runzhou Tao (University of Maryland)
 - Yu-Fang Chen (Academia Sinica)
