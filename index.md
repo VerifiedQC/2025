@@ -31,13 +31,13 @@ cover-img: "/assets/img/zagreb.png"
 - Mingsheng Ying (University of Technology Sydney)
 
 #### Accepted Presentations
-- **Certified Randomness from Quantum Supremacy.** <br> Scott Aaronson and Shih-Han Hung 
-- **Interval-based Analysis of Quantum Variational Computing.** <br> Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro
-- **Hardware-Optimal Quantum Algorithms.** <br> Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger
-- **Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation.** <br> Ji Guan
-- **On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit.** <br> Cica Gustiani, Dominik Leichte and Daniel Mills
-- **Finding Photonics Circuits with SMT Solvers.** <br> Marco Lewis and Benoît Valiron
 - **Analysing Quantum Programs using Automata.** <br> Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen
+- **Certified Randomness from Quantum Supremacy.** <br> Scott Aaronson and Shih-Han Hung 
+- **Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation.** <br> Ji Guan
+- **Finding Photonics Circuits with SMT Solvers.** <br> Marco Lewis and Benoît Valiron
+- **Hardware-Optimal Quantum Algorithms.** <br> Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger
+- **Interval-based Analysis of Quantum Variational Computing.** <br> Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro
+- **On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit.** <br> Cica Gustiani, Dominik Leichte and Daniel Mills
 
 #### Program Committee
 - Runzhou Tao (University of Maryland)
