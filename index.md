@@ -38,6 +38,7 @@ cover-img: "/assets/img/zagreb.png"
 - **Hardware-Optimal Quantum Algorithms.** <br> Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger
 - **Interval-based Analysis of Quantum Variational Computing.** <br> Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro
 - **On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit.** <br> Cica Gustiani, Dominik Leichte and Daniel Mills
+  
 #### Accepted Posters
 - **Barrier Certificates for Quantum Computing.** <br> Marco Lewis, Sadegh Soudjani and Paolo Zuliani
 - **Compact and efficient formalism for resource and termination estimation in quantum programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
