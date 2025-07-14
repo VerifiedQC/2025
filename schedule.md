@@ -20,10 +20,6 @@ cover-img: "/assets/img/zagreb.png"
 
 <!-- <span style="color:red">The notification deadline is extended to June 15. If you need to receive the result earlier for travel arrangements, please feel free to contact the co-chairs.</span> -->
 
-#### Organizers
-- Runzhou Tao (University of Maryland)
-- Yu-Fang Chen (Academia Sinica)
-
 #### Invited Speakers
 - Ross Duncan (Quantinuum)
 - Aws Albarghouthi (University of Wisconsin-Madison)
@@ -82,6 +78,10 @@ In this talk, I will present an alternative approach: automatically synthesizing
 - **Compact and efficient formalism for resource and termination estimation in quantum programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
 - **DisQ: A Model of Distributed Quantum Processors.** <br> Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu and Liyi Li	
 - **Hybrid Programming Language for Cryptography in Rocq.** <br> Zhenhao Li and Li Zhou
+
+#### Organizers
+- Runzhou Tao (University of Maryland)
+- Yu-Fang Chen (Academia Sinica)
 
 #### Program Committee
 - Runzhou Tao (University of Maryland)
