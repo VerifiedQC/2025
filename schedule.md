@@ -48,14 +48,14 @@ Verification usually means to guarantee that a computational system is correct w
     <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron</td></tr>
     <tr><td>10:30–11:00</td><td><strong>Coffee break</strong></td></tr>
     <tr><td colspan="2"><em>Session 2</em></td></tr>
-    <tr><td>11:00–11:45</td><details>
+    <tr><td>11:00–11:45</td><td><details>
 <summary><strong>Keynote: A Practical Quantum Hoare Logic with Classical Variables</strong> (show abstract)<br>Mingsheng Ying</td></summary>
 We present a Hoare-style logic for reasoning about quantum programs with classical variables. Our approach offers several improvements over previous work:<br><br>
 (1) Enhanced expressivity of the programming language: Our logic applies to quantum programs with classical variables that incorporate quantum arrays and parameterized quantum gates, which have not been addressed in previous research on quantum Hoare logic, either with or without classical variables.<br><br>
 (2) Intuitive correctness specifications: In our logic, preconditions and postconditions for quantum programs with classical variables are specified as a pair consisting of a classical first-order logical formula and a quantum predicate formula (possibly parameterized by classical variables). These specifications offer greater clarity and align more closely with the programmer's intuitive understanding of quantum and classical interactions.<br><br>
 (3) Simplified proof system: By introducing a novel idea in formulating a proof rule for reasoning about quantum measurements, along with (2), we develop a proof system for quantum programs that requires only minimal modifications to classical Hoare logic. Furthermore, this proof system can be effectively and conveniently combined with classical first-order logic to verify quantum programs with classical variables.<br><br>
 As a result, the learning curve for quantum program verification techniques is significantly reduced for those already familiar with classical program verification techniques, and existing tools for verifying classical programs can be more easily adapted for quantum program verification.
-</details></tr>
+</details></td></tr>
     <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger</td></tr>
     <tr><td>12:05–14:00</td><td><strong>Lunch</strong></td></tr>
     <tr><td colspan="2"><em>Session 3</em></td></tr>
