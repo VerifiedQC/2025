@@ -41,7 +41,7 @@ cover-img: "/assets/img/zagreb.png"
     <tr><td>8:30–9:00</td><td><strong>Breakfast</strong></td></tr>
     <tr><td>9:00–9:05</td><td><strong>Opening</strong></td></tr>
     <tr><td colspan="2"><em>Session 1</em></td></tr>
-    <tr><td>9:05–9:50</td><td><details><summary><strong>Keynote: What Should We Verify?</strong><br>Ross Duncan</summary>
+    <tr><td>9:05–9:50</td><td><details><summary><strong>Keynote: What Should We Verify?</strong><br>Ross Duncan (show abstract)</summary>
 Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.
 </details> </td></tr>
     <tr><td>9:50–10:10</td><td><strong>Interval-based Analysis of Quantum Variational Computing</strong><br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro</td></tr>
