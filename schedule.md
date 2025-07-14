@@ -1,3 +1,35 @@
+---
+layout: page
+title: First Workshop on Verification of Quantum Computing (VQC 2025)
+subtitle: A CAV 2025 Workshop
+cover-img: "/assets/img/zagreb.png"
+---
+
+<div class="workshop-details">
+    <span class="workshop-detail">
+        <i class="fas fa-calendar-alt"></i> July 21, 2025
+    </span>
+    <span class="workshop-detail">
+        <i class="fas fa-location-dot"></i> <p><a href="https://www.google.com/maps/place/Faculty+of+Electrical+Engineering+and+Computing/@45.8003692,15.968797,17z/data=!3m1!4b1!4m6!3m5!1s0x4765d6f150cf2ccd:0x739e5c279fd98531!8m2!3d45.8003692!4d15.9713773!16zL20vMGd3dDd3?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">Building D of the Faculty of Electrical Engineering and Computing, </a>  <br/> University of Zagreb, Zagreb, Croatia </p>
+    </span>
+</div>
+
+<!-- [Presentation Submission](https://easychair.org/conferences/?conf=vqc2025) -->
+
+<!-- <span style="color:red">Due to several requests, we have extended the submission deadline to May 15.</span> -->
+
+<!-- <span style="color:red">The notification deadline is extended to June 15. If you need to receive the result earlier for travel arrangements, please feel free to contact the co-chairs.</span> -->
+
+#### Organizers
+- Runzhou Tao (University of Maryland)
+- Yu-Fang Chen (Academia Sinica)
+
+#### Invited Speakers
+- Ross Duncan (Quantinuum)
+- Aws Albarghouthi (University of Wisconsin-Madison)
+- Mingsheng Ying (University of Technology Sydney)
+
+#### Program
 | Time         | Event |
 |--------------|-------|
 | 8:30–9:00    | **Breakfast** |
@@ -22,7 +54,7 @@
 | 16:40–17:00  | **Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation**<br>Ji Guan |
 | 17:00–17:30  | **Panel Discussion** |
 
-<h3><strong>Abstract:</strong></h3>
+#### Keynote Abstracts
 <details>
 <summary><em>What Should We Verify? Ross Duncan</em></summary>
 Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.<br><br>
@@ -41,3 +73,26 @@ The promise of quantum computing has tantalized researchers for decades, and rec
 
 In this talk, I will present an alternative approach: automatically synthesizing device-specific quantum circuit compilers. This synthesis-based methodology enables rapid iteration while maintaining correctness guarantees. I will focus on the optimizer component, which reduces circuit size to minimize quantum computation errors. I will demonstrate how automatically synthesized optimizers can achieve superior performance compared to sophisticated hand-crafted alternatives. I will also discuss recent results on synthesizing device-specific mapping and routing algorithms.
 </details> 
+
+
+#### Posters
+- **Barrier Certificates for Quantum Computing.** <br> Marco Lewis, Sadegh Soudjani and Paolo Zuliani
+- **Compact and efficient formalism for resource and termination estimation in quantum programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
+- **DisQ: A Model of Distributed Quantum Processors.** <br> Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu and Liyi Li	
+- **Hybrid Programming Language for Cryptography in Rocq.** <br> Zhenhao Li and Li Zhou
+
+#### Program Committee
+- Runzhou Tao (University of Maryland)
+- Yu-Fang Chen (Academia Sinica)
+- Alfons Laarman (Leiden University)
+- Christophe Chareton (LORIA-CELLO)
+- Ondrej Lengal (Brno University of Technology)
+- Max Tschaikowski (Aalborg University)
+- Nengkun Yu (Stony Brook University)
+- Ji Liu (Argonne National Laboratory)
+- Zichang He (JPMorgan Chase)
+- Li Zhou (Max Planck Institute for Security and Privacy)
+- Ferhat Erata (Yale University)
+
+
+
