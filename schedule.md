@@ -1,5 +1,5 @@
 <details>
-<summary><em>What Should We Verify? Show abstract</em></summary>
+<summary><em>What Should We Verify? Ross Duncan</em></summary>
 *Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.*
 </details> 
 
