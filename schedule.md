@@ -21,19 +21,15 @@ In this talk, I will present an alternative approach: automatically synthesizing
 |--------------|-------|
 | 8:30–9:00    | **Breakfast** |
 | 9:00–9:05    | **Opening** |
+| _Morning_    |       |
 | 9:05–9:50    | **Keynote: What Should We Verify?**<br> Ross Duncan|
 | 9:50–10:10   | **Interval-based Analysis of Quantum Variational Computing**<br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro |
 | 10:10–10:30  | **Finding Photonics Circuits with SMT Solvers**<br>Marco Lewis and Benoît Valiron |
 | 10:30–11:00  | **Coffee break** |
-
-| Time         | Event |
-|--------------|-------|
+| _Morning_    |       |
 | 11:00–11:45  | **Keynote: A Practical Quantum Hoare Logic with Classical Variables.**<br>Mingsheng Ying |
 | 11:45–12:05  | **Hardware-Optimal Quantum Algorithms**<br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger |
 | 12:05–14:00  | **Lunch** |
-
-| Time         | Event |
-|--------------|-------|
 | 14:00–14:45  | **Keynote: Synthesizing Quantum Compilers**<br>Aws Albarghouthi |
 | 14:45–15:05  | **Certified Randomness from Quantum Supremacy**<br>Scott Aaronson and Shih-Han Hung |
 | 15:05–15:30  | **Poster Session** |
