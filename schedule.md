@@ -25,6 +25,9 @@ In this talk, I will present an alternative approach: automatically synthesizing
 | 9:50–10:10   | **Interval-based Analysis of Quantum Variational Computing**<br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro |
 | 10:10–10:30  | **Finding Photonics Circuits with SMT Solvers**<br>Marco Lewis and Benoît Valiron |
 | 10:30–11:00  | **Coffee break** |
+
+| Time         | Event |
+|--------------|-------|
 | 11:00–11:45  | **Keynote: A Practical Quantum Hoare Logic with Classical Variables.s**<br>Mingsheng Ying |
 | 11:45–12:05  | **Hardware-Optimal Quantum Algorithms**<br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger |
 | 12:05–14:00  | **Lunch** |
