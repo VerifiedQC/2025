@@ -40,24 +40,20 @@ cover-img: "/assets/img/zagreb.png"
   <tbody>
     <tr><td>8:30–9:00</td><td><strong>Breakfast</strong></td></tr>
     <tr><td>9:00–9:05</td><td><strong>Opening</strong></td></tr>
-
     <tr><td colspan="2"><em>Session 1</em></td></tr>
     <tr><td>9:05–9:50</td><td><strong>Keynote: What Should We Verify?</strong><br>Ross Duncan</td></tr>
     <tr><td>9:50–10:10</td><td><strong>Interval-based Analysis of Quantum Variational Computing</strong><br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro</td></tr>
     <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron</td></tr>
     <tr><td>10:30–11:00</td><td><strong>Coffee break</strong></td></tr>
-
     <tr><td colspan="2"><em>Session 2</em></td></tr>
     <tr><td>11:00–11:45</td><td><strong>Keynote: A Practical Quantum Hoare Logic with Classical Variables</strong><br>Mingsheng Ying</td></tr>
     <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger</td></tr>
     <tr><td>12:05–14:00</td><td><strong>Lunch</strong></td></tr>
-
     <tr><td colspan="2"><em>Session 3</em></td></tr>
     <tr><td>14:00–14:45</td><td><strong>Keynote: Synthesizing Quantum Compilers</strong><br>Aws Albarghouthi</td></tr>
     <tr><td>14:45–15:05</td><td><strong>Certified Randomness from Quantum Supremacy</strong><br>Scott Aaronson and Shih-Han Hung</td></tr>
     <tr><td>15:05–15:30</td><td><strong>Poster Session</strong></td></tr>
     <tr><td>15:30–16:00</td><td><strong>Coffee break</strong></td></tr>
-
     <tr><td colspan="2"><em>Session 4</em></td></tr>
     <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen</td></tr>
     <tr><td>16:20–16:40</td><td><strong>On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit</strong><br>Cica Gustiani, Dominik Leichte and Daniel Mills</td></tr>
