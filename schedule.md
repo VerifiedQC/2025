@@ -2,7 +2,11 @@
 |--------------|-------|
 | 8:30–9:00    | **Breakfast** |
 | 9:00–9:05    | **Opening** |
-| 9:05–9:50    | **Keynote: TBD, Ross Duncan** |
+| 9:05–9:50    | **Keynote: <details>
+<summary><strong>What Should We Verify?</strong></summary>
+**Abstract:**  
+Verification usually means to guarantee that a computational system is correct with respect to some specification.  Can this definition survive in the context of quantum computing?  What parts of the system can be verified?  What notions of correctness are helpful?  What properties of realistic systems can be verified?  What *should* we verify?  I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software.  Spoiler : it's the compiler.
+</details>, Ross Duncan** |
 | 9:50–10:10   | **Interval-based Analysis of Quantum Variational Computing**<br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro |
 | 10:10–10:30  | **Finding Photonics Circuits with SMT Solvers**<br>Marco Lewis and Benoît Valiron |
 | 10:30–11:00  | **Coffee break** |
