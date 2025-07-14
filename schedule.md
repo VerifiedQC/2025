@@ -43,7 +43,7 @@ cover-img: "/assets/img/zagreb.png"
     <tr><td colspan="2"><em>Session 1</em></td></tr>
     <tr><td>9:05–9:50</td><td><details>
     <summary><strong>Keynote: What Should We Verify?</strong> (show abstract)<br>Ross Duncan</summary>
-    Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.
+    <br>Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.
     </details> </td></tr>
     <tr><td>9:50–10:10</td><td><strong>Interval-based Analysis of Quantum Variational Computing</strong><br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro</td></tr>
     <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron</td></tr>
@@ -51,7 +51,7 @@ cover-img: "/assets/img/zagreb.png"
     <tr><td colspan="2"><em>Session 2</em></td></tr>
     <tr><td>11:00–11:45</td><td><details>
     <summary><strong>Keynote: A Practical Quantum Hoare Logic with Classical Variables</strong> (show abstract)<br>Mingsheng Ying</summary>
-We present a Hoare-style logic for reasoning about quantum programs with classical variables. Our approach offers several improvements over previous work:<br>
+<br>We present a Hoare-style logic for reasoning about quantum programs with classical variables. Our approach offers several improvements over previous work:<br>
 (1) Enhanced expressivity of the programming language: Our logic applies to quantum programs with classical variables that incorporate quantum arrays and parameterized quantum gates, which have not been addressed in previous research on quantum Hoare logic, either with or without classical variables.<br>
 (2) Intuitive correctness specifications: In our logic, preconditions and postconditions for quantum programs with classical variables are specified as a pair consisting of a classical first-order logical formula and a quantum predicate formula (possibly parameterized by classical variables). These specifications offer greater clarity and align more closely with the programmer's intuitive understanding of quantum and classical interactions.<br>
 (3) Simplified proof system: By introducing a novel idea in formulating a proof rule for reasoning about quantum measurements, along with (2), we develop a proof system for quantum programs that requires only minimal modifications to classical Hoare logic. Furthermore, this proof system can be effectively and conveniently combined with classical first-order logic to verify quantum programs with classical variables.<br>
