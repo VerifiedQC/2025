@@ -69,7 +69,7 @@ In this talk, I will present an alternative approach: automatically synthesizing
     <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen</td></tr>
     <tr><td>16:20–16:40</td><td><strong>On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit</strong><br>Cica Gustiani, Dominik Leichte and Daniel Mills</td></tr>
     <tr><td>16:40–17:00</td><td><strong>Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation</strong><br>Ji Guan</td></tr>
-    <tr><td>17:00–17:30</td><td><strong>Panel Discussion</strong></td></tr>
+    <tr><td>17:00–17:30</td><td><strong>Panel & Planning Session</strong></td></tr>
   </tbody>
 </table>
 
