@@ -2,7 +2,7 @@
 |--------------|-------|
 | 8:30–9:00    | **Breakfast** |
 | 9:00–9:05    | **Opening** |
-| 9:05–9:50    | **Keynote: What Should We Verify?**<br> Ross Duncan** |
+| 9:05–9:50    | **Keynote: What Should We Verify?**<br> Ross Duncan |
 | 9:50–10:10   | **Interval-based Analysis of Quantum Variational Computing**<br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro |
 | 10:10–10:30  | **Finding Photonics Circuits with SMT Solvers**<br>Marco Lewis and Benoît Valiron |
 | 10:30–11:00  | **Coffee break** |
