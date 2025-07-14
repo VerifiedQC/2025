@@ -11,9 +11,9 @@
 | 12:05–14:00  | **Lunch** |
 | 14:00–14:45  | **Keynote: Synthesizing Quantum Compilers**<br>Aws Albarghouthi |
 | 14:45–15:05  | **Certified Randomness from Quantum Supremacy**<br>Scott Aaronson and Shih-Han Hung |
-| 15:05–15:30  | **Ppanel Discussion** |
+| 15:05–15:30  | **Poster Session** |
 | 15:30–16:00  | **Coffee break** |
 | 16:00–16:20  | **Analysing Quantum Programs using Automata**<br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen |
 | 16:20–16:40  | **On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**<br>Cica Gustiani, Dominik Leichte and Daniel Mills |
 | 16:40–17:00  | **Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation**<br>Ji Guan |
-| 17:00–17:30  | **Poster Session** |
+| 17:00–17:30  | **Panel Discussion** |
