@@ -77,11 +77,6 @@ In this talk, I will present an alternative approach: automatically synthesizing
   </tbody>
 </table>
 
-#### Keynote Abstracts
-
- 
-
-
 #### Posters
 - **Barrier Certificates for Quantum Computing.** <br> Marco Lewis, Sadegh Soudjani and Paolo Zuliani
 - **Compact and efficient formalism for resource and termination estimation in quantum programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
