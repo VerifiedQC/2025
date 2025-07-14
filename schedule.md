@@ -30,29 +30,41 @@ cover-img: "/assets/img/zagreb.png"
 - Mingsheng Ying (University of Technology Sydney)
 
 #### Program
-| Time         | Event |
-|--------------|-------|
-| 8:30–9:00    | **Breakfast** |
-| 9:00–9:05    | **Opening** |
-| _Session 1_    |       |
-| 9:05–9:50    | **Keynote: What Should We Verify?**<br> Ross Duncan|
-| 9:50–10:10   | **Interval-based Analysis of Quantum Variational Computing**<br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro |
-| 10:10–10:30  | **Finding Photonics Circuits with SMT Solvers**<br>Marco Lewis and Benoît Valiron |
-| 10:30–11:00  | **Coffee break** |
-| _Session 2_    |       |
-| 11:00–11:45  | **Keynote: A Practical Quantum Hoare Logic with Classical Variables.**<br>Mingsheng Ying |
-| 11:45–12:05  | **Hardware-Optimal Quantum Algorithms**<br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger |
-| 12:05–14:00  | **Lunch** |
-| _Session 3_    |       |
-| 14:00–14:45  | **Keynote: Synthesizing Quantum Compilers**<br>Aws Albarghouthi |
-| 14:45–15:05  | **Certified Randomness from Quantum Supremacy**<br>Scott Aaronson and Shih-Han Hung |
-| 15:05–15:30  | **Poster Session** |
-| 15:30–16:00  | **Coffee break** |
-| _Session 4_    |       |
-| 16:00–16:20  | **Analysing Quantum Programs using Automata**<br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen |
-| 16:20–16:40  | **On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**<br>Cica Gustiani, Dominik Leichte and Daniel Mills |
-| 16:40–17:00  | **Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation**<br>Ji Guan |
-| 17:00–17:30  | **Panel Discussion** |
+<table>
+  <thead>
+    <tr>
+      <th style="width: 120px;">Time</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>8:30–9:00</td><td><strong>Breakfast</strong></td></tr>
+    <tr><td>9:00–9:05</td><td><strong>Opening</strong></td></tr>
+
+    <tr><td colspan="2"><em>Session 1</em></td></tr>
+    <tr><td>9:05–9:50</td><td><strong>Keynote: What Should We Verify?</strong><br>Ross Duncan</td></tr>
+    <tr><td>9:50–10:10</td><td><strong>Interval-based Analysis of Quantum Variational Computing</strong><br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro</td></tr>
+    <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron</td></tr>
+    <tr><td>10:30–11:00</td><td><strong>Coffee break</strong></td></tr>
+
+    <tr><td colspan="2"><em>Session 2</em></td></tr>
+    <tr><td>11:00–11:45</td><td><strong>Keynote: A Practical Quantum Hoare Logic with Classical Variables</strong><br>Mingsheng Ying</td></tr>
+    <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger</td></tr>
+    <tr><td>12:05–14:00</td><td><strong>Lunch</strong></td></tr>
+
+    <tr><td colspan="2"><em>Session 3</em></td></tr>
+    <tr><td>14:00–14:45</td><td><strong>Keynote: Synthesizing Quantum Compilers</strong><br>Aws Albarghouthi</td></tr>
+    <tr><td>14:45–15:05</td><td><strong>Certified Randomness from Quantum Supremacy</strong><br>Scott Aaronson and Shih-Han Hung</td></tr>
+    <tr><td>15:05–15:30</td><td><strong>Poster Session</strong></td></tr>
+    <tr><td>15:30–16:00</td><td><strong>Coffee break</strong></td></tr>
+
+    <tr><td colspan="2"><em>Session 4</em></td></tr>
+    <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen</td></tr>
+    <tr><td>16:20–16:40</td><td><strong>On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit</strong><br>Cica Gustiani, Dominik Leichte and Daniel Mills</td></tr>
+    <tr><td>16:40–17:00</td><td><strong>Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation</strong><br>Ji Guan</td></tr>
+    <tr><td>17:00–17:30</td><td><strong>Panel Discussion</strong></td></tr>
+  </tbody>
+</table>
 
 #### Keynote Abstracts
 <details>
