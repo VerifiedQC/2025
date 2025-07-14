@@ -74,6 +74,7 @@ In this talk, I will present an alternative approach: automatically synthesizing
 </table>
 
 #### Posters
+- **AutoQ: Automata-based Quantum Program Analyzer.** <br> Jyun-Ao Lin et. al.
 - **Barrier Certificates for Quantum Computing.** <br> Marco Lewis, Sadegh Soudjani and Paolo Zuliani
 - **Compact and Efficient Formalism for Resource and Termination Estimation in Quantum Programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
 - **DisQ: A Model of Distributed Quantum Processors.** <br> Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu and Liyi Li	
