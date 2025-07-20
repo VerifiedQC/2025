@@ -29,7 +29,7 @@ cover-img: "/assets/img/zagreb.png"
 <table>
   <thead>
     <tr>
-      <th style="width: 120px;">Time</th>
+      <th style="width: 120px;">Time (UTC+2)</th>
       <th>Event</th>
     </tr>
   </thead>
