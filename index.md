@@ -53,7 +53,7 @@ cover-img: "/assets/img/zagreb.png"
 (3) Simplified proof system: By introducing a novel idea in formulating a proof rule for reasoning about quantum measurements, along with (2), we develop a proof system for quantum programs that requires only minimal modifications to classical Hoare logic. Furthermore, this proof system can be effectively and conveniently combined with classical first-order logic to verify quantum programs with classical variables.<br>
 As a result, the learning curve for quantum program verification techniques is significantly reduced for those already familiar with classical program verification techniques, and existing tools for verifying classical programs can be more easily adapted for quantum program verification.
 </details></td></tr>
-    <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger</td></tr>
+    <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger<br><a href="/assets/slides/talk-muroya.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>12:05–14:00</td><td><strong>Lunch</strong></td></tr>
     <tr><td colspan="2"><em>Session 3</em></td></tr>
     <tr><td>14:00–14:45</td><td><details>
@@ -68,7 +68,7 @@ In this talk, I will present an alternative approach: automatically synthesizing
     <tr><td colspan="2"><em>Session 4</em></td></tr>
     <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen</td></tr>
     <tr><td>16:20–16:40</td><td><strong>On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit</strong><br>Cica Gustiani, Dominik Leichte and Daniel Mills</td></tr>
-    <tr><td>16:40–17:00</td><td><strong>Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation</strong><br>Ji Guan</td></tr>
+    <tr><td>16:40–17:00</td><td><strong>Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation</strong><br>Ji Guan<br><a href="/assets/slides/talk-guan.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>17:00–17:30</td><td><strong>Panel & Planning Session</strong></td></tr>
   </tbody>
 </table>
@@ -77,8 +77,8 @@ In this talk, I will present an alternative approach: automatically synthesizing
 - **AutoQ: Automata-based Quantum Program Analyzer.** <br> Jyun-Ao Lin et. al.
 - **Barrier Certificates for Quantum Computing.** <br> Marco Lewis, Sadegh Soudjani and Paolo Zuliani
 - **Compact and Efficient Formalism for Resource and Termination Estimation in Quantum Programs.** <br>	Jad Issa, Christophe Chareton and Romain Péchoux
-- **DisQ: A Model of Distributed Quantum Processors.** <br> Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu and Liyi Li	
-- **Hybrid Programming Language for Cryptography in Rocq.** <br> Zhenhao Li and Li Zhou
+- **DisQ: A Model of Distributed Quantum Processors.** <br> Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu and Liyi Li<br><a href="/assets/slides/poster-liyi-li.pdf" target="_blank">Poster</a>
+- **Hybrid Programming Language for Cryptography in Rocq.** <br> Zhenhao Li and Li Zhou<br><a href="/assets/slides/poster-zhenhao-li.pdf" target="_blank">Poster</a>
 
 #### Organizers
 - Runzhou Tao (University of Maryland)
