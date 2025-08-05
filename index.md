@@ -10,7 +10,7 @@ cover-img: "/assets/img/zagreb.png"
         <i class="fas fa-calendar-alt"></i> July 21, 2025
     </span>
     <span class="workshop-detail">
-        <i class="fas fa-location-dot"></i> <p><a href="https://www.google.com/maps/place/Faculty+of+Electrical+Engineering+and+Computing/@45.8003692,15.968797,17z/data=!3m1!4b1!4m6!3m5!1s0x4765d6f150cf2ccd:0x739e5c279fd98531!8m2!3d45.8003692!4d15.9713773!16zL20vMGd3dDd3?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">Building D of the Faculty of Electrical Engineering and Computing, </a>  <br/> University of Zagreb, Zagreb, Croatia or join us remotely via <a href="https://meet.google.com/hgw-mgem-bhq">Google Meet </a> </p>
+        <i class="fas fa-location-dot"></i> <p><a href="https://www.google.com/maps/place/Faculty+of+Electrical+Engineering+and+Computing/@45.8003692,15.968797,17z/data=!3m1!4b1!4m6!3m5!1s0x4765d6f150cf2ccd:0x739e5c279fd98531!8m2!3d45.8003692!4d15.9713773!16zL20vMGd3dDd3?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">Building D of the Faculty of Electrical Engineering and Computing, </a>  <br/> University of Zagreb, Zagreb, Croatia or join us remotely via Google Meet </p>
 </span>
 </div>
 
@@ -40,9 +40,9 @@ cover-img: "/assets/img/zagreb.png"
     <tr><td>9:05–9:50</td><td><details>
     <summary><strong>Keynote: What Should We Verify?</strong> (show abstract)<br>Ross Duncan</summary>
     <br>Verification usually means to guarantee that a computational system is correct with respect to some specification. Can this definition survive in the context of quantum computing? What parts of the system can be verified? What notions of correctness are helpful? What properties of realistic systems can be verified? What* should *we verify? I will survey the field and give some perspective on the challenges and opportunities for automated verification of quantum software. Spoiler: it's the compiler.
-    </details> </td></tr>
+    </details><br><a href="/assets/slides/talk-duncan.pdf" target="_blank">Slides</a> </td></tr>
     <tr><td>9:50–10:10</td><td><strong>Interval-based Analysis of Quantum Variational Computing</strong><br>Nicola Assolini, Luca Marzari, Isabella Mastroeni and Alessandra Di Pierro</td></tr>
-    <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron</td></tr>
+    <tr><td>10:10–10:30</td><td><strong>Finding Photonics Circuits with SMT Solvers</strong><br>Marco Lewis and Benoît Valiron<br><a href="/assets/slides/talk-lewis.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>10:30–11:00</td><td><strong>Coffee break</strong></td></tr>
     <tr><td colspan="2"><em>Session 2</em></td></tr>
     <tr><td>11:00–11:45</td><td><details>
@@ -52,7 +52,7 @@ cover-img: "/assets/img/zagreb.png"
 (2) Intuitive correctness specifications: In our logic, preconditions and postconditions for quantum programs with classical variables are specified as a pair consisting of a classical first-order logical formula and a quantum predicate formula (possibly parameterized by classical variables). These specifications offer greater clarity and align more closely with the programmer's intuitive understanding of quantum and classical interactions.<br>
 (3) Simplified proof system: By introducing a novel idea in formulating a proof rule for reasoning about quantum measurements, along with (2), we develop a proof system for quantum programs that requires only minimal modifications to classical Hoare logic. Furthermore, this proof system can be effectively and conveniently combined with classical first-order logic to verify quantum programs with classical variables.<br>
 As a result, the learning curve for quantum program verification techniques is significantly reduced for those already familiar with classical program verification techniques, and existing tools for verifying classical programs can be more easily adapted for quantum program verification.
-</details></td></tr>
+</details><br><a href="/assets/slides/talk-ying.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>11:45–12:05</td><td><strong>Hardware-Optimal Quantum Algorithms</strong><br>Stefanie Muroya, Krishnendu Chatterjee and Thomas Henzinger<br><a href="/assets/slides/talk-muroya.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>12:05–14:00</td><td><strong>Lunch</strong></td></tr>
     <tr><td colspan="2"><em>Session 3</em></td></tr>
@@ -61,12 +61,12 @@ As a result, the learning curve for quantum program verification techniques is s
 <br>The promise of quantum computing has tantalized researchers for decades, and recent breakthroughs in physical implementations have brought this technology closer to reality. However, the quantum computing landscape remains highly dynamic: competing physical substrates, fault tolerance schemes, and architectures continue to emerge with no clear frontrunner. This diversity creates a significant bottleneck in the compilation pipeline – developing and maintaining separate compilers for each new device or experimental setup is both time-consuming and error-prone.<br>
 
 In this talk, I will present an alternative approach: automatically synthesizing device-specific quantum circuit compilers. This synthesis-based methodology enables rapid iteration while maintaining correctness guarantees. I will focus on the optimizer component, which reduces circuit size to minimize quantum computation errors. I will demonstrate how automatically synthesized optimizers can achieve superior performance compared to sophisticated hand-crafted alternatives. I will also discuss recent results on synthesizing device-specific mapping and routing algorithms.
-</details></td></tr>
+</details><br><a href="/assets/slides/talk-albarghouthi.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>14:45–15:05</td><td><strong>Certified Randomness from Quantum Supremacy</strong><br>Scott Aaronson and Shih-Han Hung</td></tr>
     <tr><td>15:05–15:30</td><td><strong>Poster Session</strong></td></tr>
     <tr><td>15:30–16:00</td><td><strong>Coffee break</strong></td></tr>
     <tr><td colspan="2"><em>Session 4</em></td></tr>
-    <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen</td></tr>
+    <tr><td>16:00–16:20</td><td><strong>Analysing Quantum Programs using Automata</strong><br>Parosh Aziz Abdulla, Yo-Ga Chen, Yu-Fang Chen, Kai-Min Chung, Lukáš Holík, Ondrej Lengal, Jyun-Ao Lin, Fang-Yi Lo, Wei-Lun Tsai and Di-De Yen<br><a href="/assets/slides/talk-lengal.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>16:20–16:40</td><td><strong>On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit</strong><br>Cica Gustiani, Dominik Leichte and Daniel Mills</td></tr>
     <tr><td>16:40–17:00</td><td><strong>Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation</strong><br>Ji Guan<br><a href="/assets/slides/talk-guan.pdf" target="_blank">Slides</a></td></tr>
     <tr><td>17:00–17:30</td><td><strong>Panel & Planning Session</strong></td></tr>
